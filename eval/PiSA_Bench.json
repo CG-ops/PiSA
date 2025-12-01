@@ -1,0 +1,586 @@
+[
+  {
+    "object_id": "c20eb3a5a93e4cddb06c2f98626b1830",
+    "class": [
+      "wooden board",
+      "table",
+      "pottery"
+    ],
+    "description": "This 3D model displays a wooden rectangular platform adorned with various items on top. The setup features a sizable dark clay vessel or cauldron positioned on a miniature stand at one end of the platform. At the other end, a table-like structure supports books, miniature vases, and what seems to be a witch's hat. The entire arrangement is decorated with vibrant speckles or splashes of paint in red, green, and blue, creating a magical or whimsical feel. The wood surface shows clear plank marks and a textured finish.",
+    "color": "The base displays a wooden brown shade, decorated with vibrant speckles in red, green, and blue. The large vessel is dark gray. The table holds brown books, two small vases (one blue and one green), and a dark gray pointed hat. The table also features the same speckled pattern as the wooden platform.",
+    "shape": "The principal structure is a rectangular wooden platform. It includes a circular pot at one end and a rectangular table at the other.",
+    "count": "The arrangement includes several items: one large pot, one table, multiple books, at least two small vases, and one pointed hat.",
+    "spatial": "The clay vessel is situated at one end of the wooden platform. The table, bearing various items, is located at the opposite end. All elements are positioned on the wooden platform.",
+    "usage": "This 3D model can be used in video games, animations, or virtual settings to craft a scene with a magical or fantasy theme, perhaps associated with witchcraft or alchemy."
+  },
+  {
+    "object_id": "267b8ecaf2884abaaa5f03680ce39ad8",
+    "class": [
+      "computer",
+      "desktop",
+      "PC case"
+    ],
+    "description": "This 3D model depicts a contemporary, streamlined desktop PC case. It features a black, boxy shape with defined edges. The front panel is equipped with a slot for a DVD drive marked 'DVD' and possibly another slot beneath it. On one side, there are three blue designs resembling claws or lightning bolts. The opposite side includes a sizeable round mesh section for air flow, with '8KEN' inscribed in blue, likely signifying a brand or model. The back panel has typical computer case ventilation openings for air circulation and hardware connections. The case boasts a matte finish, rendering it appropriate and attractive for office or gaming environments.",
+    "color": "The primary color is black, complemented by blue highlights such as the claw-like patterns on one side and the '8KEN' inscription on the other.",
+    "shape": "The case is shaped as a rectangular prism or cuboid with crisp edges. It narrows slightly at the front, enhancing its sleek look. The back panel is designed with standard ventilation holes.",
+    "count": "There is one PC case.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for use in various digital settings including simulations of computer setups, designs for gaming spaces, promotional content for custom-built PCs, or educational materials concerning computer components."
+  },
+  {
+    "object_id": "30eb9fd904b942e9abb3be2195255c6e",
+    "class": [
+      "tower",
+      "architecture",
+      "skyscraper",
+      "landmark"
+    ],
+    "description": "This 3D model portrays a contemporary, streamlined skyscraper. It is primarily white and features a tall, narrow body with a unique hexagonal section in the middle, which might serve as an observation area or a key structural element. The upper part of the tower tapers off and finishes with a sharp, small peak, while the base is broader to ensure stability. The design is simple and forward-looking. The model is characterized by subtle shading differences on its surface that highlight its three-dimensional aspect and architectural nuances. These shading differences accentuate the depth and contours, especially noticeable on the hexagonal middle section and the rounded base.",
+    "color": "The structure is consistently white, yet exhibits gentle shading variations that reflect its 3D nature. Brighter areas are seen on surfaces that face the light source, and shadows appear slightly darker on angled or indented surfaces.",
+    "shape": "The tower is elongated and cylindrical in shape with varying widths. It includes a hexagonal bulge at its center, narrows slightly at the top ending in a pointed tip, and has a wider, rounded base.",
+    "count": "There is one tower structure.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in architectural visualizations, urban planning simulations, digital art initiatives, or as a component of a futuristic urban landscape in video games or animations."
+  },
+  {
+    "object_id": "73e092e4ce344683b1347521e28d5df6",
+    "class": [
+      "awning",
+      "shelter",
+      "canopy",
+      "shade"
+    ],
+    "description": "This 3D model depicts a basic awning or canopy design. It features a striped top made of fabric, with alternating light blue and white colors, and is held up by two slender poles. The fabric has a slightly puffed look, enhancing its realistic and flexible visual. The poles are colored brown and appear to be crafted from wood or a similar material. They are broader at the bottom and narrow slightly as they ascend to connect with the fabric. This model is intended to offer shade or shelter in outdoor environments.",
+    "color": "The fabric of the canopy is striped in light blue and white, while the support poles are brown.",
+    "shape": "Viewed from above, the canopy is rectangular with a soft, wave-like curve. The poles are vertical and straight, narrowing gradually from the base to the top.",
+    "count": "The structure consists of a single canopy supported by two poles.",
+    "spatial": "The canopy is held up by two poles positioned vertically at each end.",
+    "usage": "This 3D model is adaptable for use in various digital applications such as architectural visualizations, landscape design tools, or video games featuring outdoor scenes. It is especially fitting for scenarios like beach environments, outdoor caf\u00e9s, or residential patios where shade structures are prevalent."
+  },
+  {
+    "object_id": "f2785bbde26b4b0f8e09ee736f1c9638",
+    "class": [
+      "modular environment",
+      "shantytown",
+      "architectural elements",
+      "module",
+      "structure"
+    ],
+    "description": "This collection of 3D models features various interchangeable parts intended for assembling a shantytown setting. The components consist of a basic rectangular building resembling a rudimentary house or shelter, a triangular roof piece, multiple flat panels or walls of different dimensions, vertical supports or poles, and a curved item possibly representing random debris. Each piece is uniformly colored in light gray, highlighting their interchangeable nature and simplifying the process of visually combining them. The design focuses on fundamental shapes that can be reconfigured in numerous ways to construct diverse layouts typical of makeshift communities.",
+    "color": "All components are rendered in a uniform light gray color.",
+    "shape": "The collection comprises different geometric shapes: a rectangular structure for the main housing, triangular elements for roofs, various-sized rectangular panels for walls or floors, cylindrical shapes for support structures, and an irregular curved form for additional details.",
+    "count": "The set contains multiple distinct pieces, including but not limited to: 1 primary rectangular structure, 1 roof element, at least 4 wall or panel sections, several support poles, and 1 curved item.",
+    "spatial": "The pieces are displayed separately, highlighting each component distinctly. The central feature, a rectangular building with an open entryway, is placed in the middle. The triangular roof part is set above this central piece. To the left, there are four rectangular panels of different sizes, likely serving as walls or flooring. To the right, there is a smaller structure that seems to be a partial roof or awning, along with a curved piece that might be debris. These components are scattered around the main building, illustrating potential assembly methods to form a complete shantytown residence.",
+    "usage": "This set of 3D models is crafted for the development of modular, adaptable shantytown settings in video games, 3D animations, or virtual reality platforms. It supports flexible scene creation, enabling creators and designers to produce varied and realistic-looking makeshift settlements."
+  },
+  {
+    "object_id": "9d34f25cb4744435a087099c6d273d04",
+    "class": [
+      "geometric object",
+      "prism"
+    ],
+    "description": "This 3D model represents a rectangular prism characterized by a unique style. The primary color of the object is blue, complemented by white highlights. Each of the four vertical sides displays the same motif: a prominent white cross that stretches vertically and horizontally, resulting in a recessed or indented center on each side. The bottom of the prism is white, providing a solid base for the object.",
+    "color": "The principal color is blue with striking white crosses on each vertical side. The bottom is white as well.",
+    "shape": "The object is a rectangular prism, also known as a cuboid. Each vertical side and the top feature a cross-shaped depression, adding depth and intricacy to the basic shape.",
+    "count": "There is one object.",
+    "spatial": "",
+    "usage": "This 3D model can serve as a demonstration item or a component in digital platforms, educational applications, or games that involve geometric figures or puzzle components."
+  },
+  {
+    "object_id": "39930c4d685f4a9c8f7bd63c1a2a7dee",
+    "class": [
+      "sports car",
+      "Chevrolet Corvette",
+      "vehicle"
+    ],
+    "description": "This 3D model depicts a high-performance Chevrolet Corvette sports car. It is presented in a striking red with black detailing. The design is sleek and aerodynamic, characteristic of contemporary sports cars, with a low stance, aggressive angles, and a notable front grille. The model features precise detailing such as the Corvette emblem at the back, four exhaust outlets, a rear spoiler, and distinctively styled front and rear lights. It also includes detailed representations of the underside and mechanical parts of the car.",
+    "color": "The dominant color is vivid red. Black is utilized for the window areas, sections of the hood, lateral vents, and the rims. White is used for the headlights and certain parts at the back.",
+    "shape": "The car's form is low, broad, and streamlined, typical for sports cars. It includes a lengthy hood, a descending roofline, and a compact rear deck. The body features sharp lines and smooth curves that enhance its dynamic and athletic look.",
+    "count": "There is one car model.",
+    "spatial": "",
+    "usage": "This 3D model can be employed in various settings such as video game development, visualizations for automotive design, digital advertising for car brands, virtual car showrooms, or as a reference tool for model creators and car enthusiasts. It can also be useful for educational purposes in exploring vehicle design or engineering."
+  },
+  {
+    "object_id": "d56401a8a5d142feb1108106b0f581cc",
+    "class": [
+      "architecture element",
+      "window frame",
+      "wall section"
+    ],
+    "description": "This 3D object depicts a portion of a building wall, equipped with two windows. The color of the wall ranges from light blue to off-white, complemented by window frames and trim in shades of tan or light brown. Each window is divided into six panes configured in a 2x3 layout. Above these, a series of smaller, rectangular transom windows are placed. The model includes intricate details like the framing around the windows, paneling on the walls, and ornamental trim.",
+    "color": "The primary wall color is either light blue or off-white, while the detailing around the windows and other architectural features are in tan or light brown. The glass of the window panes is a darker blue-gray.",
+    "shape": "The model is shaped as a rectangle, featuring two main rectangular windows. It incorporates various geometric forms, such as the square and rectangular panes and the straight lines of the trim.",
+    "count": "The model contains two primary windows, each with six panes, and six smaller transom windows positioned above the main ones.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for use in architectural visualizations, interior design applications, video game settings that include building interiors or exteriors, or as a guide for building or remodeling projects."
+  },
+  {
+    "object_id": "ac73f58f1ca8483eb3e14264da12c3d9",
+    "class": [
+      "sports car",
+      "Ferrari",
+      "concept car"
+    ],
+    "description": "This 3D model showcases a modern sports car with a design that seems to draw inspiration from Ferrari. The vehicle boasts a streamlined, aerodynamic form and is painted in a striking red. It includes illuminated features like the headlights, tail lights, and rims, which add to its advanced look. The presence of the Ferrari emblem on the front highlights its association with the brand. Details such as a modern windshield, side windows, and a unique back design are also present. This model appears to be crafted for use in video games or for visualizing futuristic concepts, rather than for actual production.",
+    "color": "The dominant color is a shiny, bright red. The model includes luminous accents in yellow (headlights, Ferrari logo), white (various lighting strips), and blue (rims).",
+    "shape": "The vehicle features a low, aerodynamic profile typical of sports cars, combining smooth lines and sharp edges, with a pronounced pointed nose and a tailored rear. Its overall form is sleek and forward-looking.",
+    "count": "There is one car model.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for use in video games, especially those with racing or sci-fi themes. It could also be utilized in visualizations of concept cars, digital art initiatives, or as a reference for designing futuristic vehicles in animation or movie pre-production."
+  },
+  {
+    "object_id": "983fa8b23a084f5dacd157e6c9ceba97",
+    "class": [
+      "cartoon",
+      "funny pony",
+      "horse",
+      "unicorn"
+    ],
+    "description": "This 3D model represents a whimsical unicorn pony, styled like those seen in 'My Little Pony'. It sports a light lavender body complemented by a purple mane and tail. The unicorn is adorned with a solitary horn and large, vivid eyes. The mane and tail display a dual-color design, predominantly purple with a stripe of mint green. On its side, it bears a small turquoise emblem or 'cutie mark'. The overall design of the model is smooth and rounded, typical of cartoon figures intended for a young audience.",
+    "color": "The body is shaded light lavender. The mane and tail are mostly purple, accented with mint green stripes. The horn is pale pink. A small turquoise emblem is present on its side. The eyes are plain white, lacking iris or pupil in these images.",
+    "shape": "The pony features a stylized, rounded body with slender legs, a petite snout, and an oversized head, typical of cartoon creatures. The mane and tail are designed with a flowing, wavy form. The horn exhibits a twisted shape.",
+    "count": "There is one pony.",
+    "spatial": "",
+    "usage": "This 3D model is ideal for use in children's animated TV shows or movies, especially those akin to the 'My Little Pony' series. It could also be utilized in video games, mobile applications, or as a prototype for toy designs. Additionally, the model is suitable for digital artwork, 3D animation guides, or as a part of a character collection in a larger animated setting."
+  },
+  {
+    "object_id": "3a61b9d2451c4df2a1c6a6550e1875df",
+    "class": [
+      "bus",
+      "public transport",
+      "vehicle"
+    ],
+    "description": "This 3D model depicts a cartoonish, simplified bus. The structure of the bus is boxy and lengthy, typical of its kind. The main color of the bus is white, complemented by blue-tinted large windows. The front part of the bus showcases a unique design with a blue front windshield and side windows. This model includes elementary components such as wheels, side mirrors, and elements resembling lights or indicators. The design is basic and stylized, making it ideal for animated scenes or simple visual depictions.",
+    "color": "The primary color of the bus is white. The windows, including the front windshield, are tinted a light blue. The wheels and side mirrors are shown in dark gray or black. Small yellow features are present, possibly representing lights or indicators.",
+    "shape": "The bus features a long, rectangular body with a gently curved roof. It has a flat front and back. The windows are large rectangles positioned along the sides and front of the bus. The wheels are depicted as basic polygonal forms.",
+    "count": "There is one bus.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for use in simple animations or video games set in urban settings, or in infographics and presentations related to public transportation."
+  },
+  {
+    "object_id": "e72dcc58707843fa93384690e3f16d9f",
+    "class": [
+      "cartoon",
+      "funny pony",
+      "horse",
+      "unicorn"
+    ],
+    "description": "This 3D model portrays a whimsical pony similar to those seen in 'My Little Pony'. It features a pale body, either white or a soft blue, adorned with a colorful mane and tail. The mane sports a spiky, vibrant style with shades of green, orange, and red, while the tail is longer and blends blue, purple, and red. It has big, expressive eyes with thick eyelashes. On its side, there's a playful mark of a rainbow beside a cloud, known as a 'cutie mark'. The design is charming and stylized, appealing to young viewers.",
+    "color": "The body is pale, either white or light blue. The mane and tail display a variety of colors such as green, orange, red, blue, and purple. The eyes are large, white with black outlines and prominent eyelashes.",
+    "shape": "The pony features a cartoonish, rounded body with slender legs and a small muzzle. It has a large head with big eyes. The mane is styled in a short, spiky fashion, whereas the tail is more flowing and extended.",
+    "count": "There is one pony.",
+    "spatial": "",
+    "usage": "This 3D model is ideal for use in children's animated films or TV series, especially those similar to or inspired by the 'My Little Pony' series. It can also be utilized in video games or mobile applications aimed at younger users, and serves as a model for designing toys or other merchandise."
+  },
+  {
+    "object_id": "304f656a07d741caabdf36d58b9eb471",
+    "class": [
+      "electric motor",
+      "industrial equipment"
+    ],
+    "description": "This 3D model depicts an electric motor, potentially a brushless DC type. It features a cylindrical form with a black casing and silver details. The front displays a circular plate with noticeable mounting holes and a protruding central shaft. Atop the motor, there is a small black panel adorned with three yellow circular components, which could be capacitors or connectors. The back part of the motor reveals its cylindrical structure with cooling fins and white inscriptions or labels.",
+    "color": "The primary color of the body is black. The front plate and some details appear in silver or light grey. The top panel includes yellow circular components. White inscriptions or labels are also present.",
+    "shape": "The motor is cylindrical. The front part is a circle with a central shaft sticking out. It has cooling fins running along its surface. A rectangular panel with circular features is attached on top.",
+    "count": "There is one electric motor.",
+    "spatial": "",
+    "usage": "This 3D model of an electric motor can be utilized in various fields such as industrial design, engineering simulations, educational resources on electric motors or mechanical systems, and as an illustrative tool in product catalogs or technical guides. It is also suitable for use in virtual or augmented reality environments for training or maintenance in industrial contexts."
+  },
+  {
+    "object_id": "56834061ce914fd29843fcfdf3369eec",
+    "class": [],
+    "description": "This 3D model depicts an old-fashioned electric radio. The design of the radio is a rectangular and box-like, typical of designs from the mid-1900s. The front panel includes elements resembling speaker grilles and tuning knobs. The sides of the radio are grooved, possibly for either cooling or decorative purposes. A distinctive aspect of this model is the lengthy electrical cord that emerges from the radio, culminating in a plug, highlighting its function as an electric device and enhancing its authentic look.",
+    "color": "The model is colored in a consistent reddish-brown or copper tone. The power cord and plug share this same color scheme.",
+    "shape": "The radio features a rectangular, box-like form with softened edges and grooved sides. A slender, elongated power cord protrudes from the unit, ending with an electrical plug.",
+    "count": "The model includes one radio complete with an attached power cord.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for use in historical recreations, retro-themed video games or animations, educational content on the history of electronic devices, set designs for period movies or plays, or as a reference model for restoring vintage electronics."
+  },
+  {
+    "object_id": "76faa9de2b1a446387a930e37465081e",
+    "class": [
+      "computer mouse",
+      "input device",
+      "hardware"
+    ],
+    "description": "This 3D model represents a computer mouse. It showcases a sleek, contoured design predominantly in white. The top of the mouse is divided, likely indicating the left and right click buttons. A lengthy, flexible cord emerges from the front of the mouse, indicating it is a wired model. The cord is depicted with natural curves, enhancing its flexible appearance.",
+    "color": "The mouse is mainly white, with gentle shading that accentuates its contoured design. The cord is similarly white.",
+    "shape": "The mouse features a rounded, ergonomic form with a contoured top. It seems to have a divided top for the clicking mechanisms. The cord is lengthy and winding, featuring several twists.",
+    "count": "This model includes one mouse and one attached cord.",
+    "spatial": "The cord projects from the front of the mouse and curves in an S-shape through the scene.",
+    "usage": "This 3D model can be utilized in diverse digital settings like user interface design, visualizations of computer equipment, or within broader compositions in 3D animations or video games."
+  },
+  {
+    "object_id": "8bd70337959749db8b16af638722b53d",
+    "class": [
+      "fan",
+      "electric fan",
+      "standing fan",
+      "household appliance"
+    ],
+    "description": "This 3D model represents a standing electric fan. It has a wide round head with a grille resembling a mesh that encloses the blades. In the middle of this grille, there is a notable black round center. The head of the fan is mounted on a slim, adjustable pole that rises from a solid base. The base is supported by four legs set in a cross or plus shape, ensuring the fan\u2019s stability. The design is streamlined and simple, characteristic of contemporary home appliances.",
+    "color": "The fan is primarily white or light gray, with the central part of the fan head being black. Both the pole and base are of the same light shade as the head of the fan.",
+    "shape": "The fan features a broad round head with a dome-like grille that has a detailed mesh design. It is supported by a slender cylindrical pole that connects to a base with four legs arranged in a cross pattern.",
+    "count": "There is one standing fan.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in various digital platforms like interior design tools, virtual reality settings, product demonstrations for online retail, or as an element in 3D animations and video games."
+  },
+  {
+    "object_id": "b408ae196798446ea5e23e41b89d5506",
+    "class": [
+      "van",
+      "vehicle",
+      "transport",
+      "military vehicle",
+      "utility vehicle"
+    ],
+    "description": "This 3D model depicts a van in a light green, cartoon-like style. It features a bright and engaging design that is sure to draw the attention of viewers. Even with its playful appearance, the model is detailed with elements like windows, doors, mirrors, and handles. It resembles the type of 3D models typically seen in animated films or video games for children, offering a cheerful and entertaining depiction of a vehicle.",
+    "color": "The primary color of the van is olive green, which is commonly used for military vehicles. The headlights are yellow, while the interior seat is either brown or orange. The wheels are colored in the same olive green as the body.",
+    "shape": "The van is shaped like a rectangular box with smooth, rounded corners. It clearly differentiates the driver's cab from the back cargo section. The windshield is rounded at the front, and the nose is flat. The roof has a gentle curve.",
+    "count": "There is one van.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for a variety of digital uses including historical reenactments, video games set in the mid-20th century, animated movies, or educational content related to the history of vehicles."
+  },
+  {
+    "object_id": "990ac62a74304d8fad0cdcb6c76dc432",
+    "class": [
+      "cartoon character",
+      "animated figure"
+    ],
+    "description": "This 3D model represents a whimsical character resembling a human-like pear. The character possesses a body shaped like a pear with short, chubby limbs. Its face is equipped with two round eyes and a big, round mouth displaying an expression of surprise or concern. Atop its head, there are two extensions that mimic the stem and leaf of a pear. The design is playful and suitable for young viewers, commonly seen in mascots or animated shows for children.",
+    "color": "The character is entirely painted in a vivid green hue.",
+    "shape": "The character's body is rounded and narrows at the top, resembling a pear. It features short, plump arms and legs. The head is adorned with two small extensions - one resembling a cylinder.",
+    "count": "There is one character.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in various digital formats such as educational content for kids about fruits, animated films or series, mobile gaming, or as a promotional mascot for pear-related or health-focused products."
+  },
+  {
+    "object_id": "252f3b3f5cd64698826fc1ab42614677",
+    "class": [
+      "drone",
+      "quadcopter",
+      "UAV",
+      "unmanned aerial vehicle"
+    ],
+    "description": "This 3D representation shows a quadcopter drone, characterized by a cylindrical central body in grey. Extending from this are four arms, each ending in a rotor, and painted red for a vivid contrast to the body. Each rotor is made up of a cylindrical motor hub supporting two white propeller blades. The overall design is straightforward and functional, more indicative of an early or basic drone model rather than a contemporary, streamlined one.",
+    "color": "The drone's central body is grey, while the arms linking the rotors are red. The propellers are white.",
+    "shape": "The drone features a cylindrical central body from which four arms radiate in an X pattern, each culminating in a rotor. The rotors each have two flat, elongated blades.",
+    "count": "There is one drone.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in various digital contexts like video games, educational content on drone operations, simulation training for drone pilots, or as a basic drone design reference. It could also be useful in UAV technology or regulation presentations and infographics."
+  },
+  {
+    "object_id": "35c07a68cdb246c59bb425610b934bf8",
+    "class": [
+      "spacecraft",
+      "rocket",
+      "SpaceX vehicle",
+      "SpaceX"
+    ],
+    "description": "This is a low-polygon 3D representation of the SpaceX Grasshopper, a vertical takeoff and landing test vehicle. It presents a tall, white cylindrical frame with 'SPACEX' displayed in vertical blue letters. The top of the rocket features a sharp nose cone. The base includes a complex landing gear system with four outward-extending legs, tailored for vertical descents. The model's simple design indicates it is tailored for flight simulation use, ensuring a good balance between visual detail and performance efficiency.",
+    "color": "The primary color of the rocket is white, with blue 'SPACEX' text. The landing gear combines shades of blue and grey/silver.",
+    "shape": "The rocket showcases a lengthy, cylindrical frame with a sharp apex. The bottom hosts an intricate setup with four landing legs that stretch out diagonally.",
+    "count": "There is one SpaceX Grasshopper rocket.",
+    "spatial": "",
+    "usage": "This 3D model is crafted for integration into the Geo-FS flight simulator, enabling users to explore the flight and landing dynamics of the SpaceX Grasshopper."
+  },
+  {
+    "object_id": "a9fa3b6a1da74b5aa36925012f251638",
+    "class": [
+      "smartphone",
+      "mobile device",
+      "Huawei phone",
+      "electronic device"
+    ],
+    "description": "This 3D model shows a Huawei AMN-LX9 smartphone. It features a prominent touchscreen with slim bezels and a tiny notch at the top for the selfie camera. The display presents an abstract wallpaper in shades of blue and purple, with the time reading 08:08 and the date as Tue Oct 16. The phone's edges are black, and the Huawei logo can be seen at the bottom of the front side. The model captures the slim and modern aesthetics typical of current smartphones.",
+    "color": "The phone's casing is black. The screen displays a wallpaper in bright blue and purple colors. The time and other interface elements appear in white.",
+    "shape": "The phone is rectangular with softly rounded corners, a design common in recent smartphones. It has a large display occupying most of the front, with a small notch at the top.",
+    "count": "There is one smartphone.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized for visualizing products in marketing materials, testing UI/UX in app development, showcasing products on e-commerce sites, or for educational purposes in technology."
+  },
+  {
+    "object_id": "37906c6e67c24b71b36bdc03ae55834a",
+    "class": [
+      "fantasy rocket",
+      "retro spacecraft",
+      "mid-century space art",
+      "sci-fi vehicle"
+    ],
+    "description": "This 3D model presents a playful, retro-futuristic rocket, drawing influence from mid-century Soviet space art. The body of the rocket is shaped like a teardrop and features a metallic sheen. Along its body, a series of small, oval windows form a vertical line. At its apex, the rocket is topped with a large, rounded dome, which is surmounted by progressively smaller discs culminating in a sharp point. The rocket's base includes four curved supports that act as landing gear. The design merges 1950s-60s science fiction themes with imaginative, whimsical elements.",
+    "color": "The rocket is depicted in shades of metallic gray or silver, with nuanced shading and reflective qualities.",
+    "shape": "The primary structure is shaped like a teardrop or elongated egg, crowned with a round dome and narrowing into a pointed spire. The base consists of four outwardly curved legs for support.",
+    "count": "There is one fantasy rocket.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in retro-futuristic video games, digital art or animations that draw on classic sci-fi themes, educational content regarding the evolution of space art and design, or as a decorative feature in projects with an old-school space motif. Additionally, it may inspire toy designs or serve as a distinctive 3D printing project for aficionados of space."
+  },
+  {
+    "object_id": "78e89f3165164480a2738f11f1d5a568",
+    "class": [
+      "horse statue",
+      "equine figurine",
+      "decorative horse",
+      "golden ornament"
+    ],
+    "description": "This 3D model features a horse standing still, coated in a metallic golden-green hue. It is crafted in a lifelike manner, showcasing the strong build and elegant contours typical of a horse. The head of the horse is slightly turned, offering a partial view of its face. Both the mane and tail are designed with smooth, flowing strokes, contributing to its dynamic look. The stance of the horse indicates vigilance, with its legs arranged as though it is about to walk.",
+    "color": "The model of the horse is uniformly colored in metallic golden-green, resembling the sheen of polished brass or bronze with a hint of green.",
+    "shape": "The model is shaped realistically to resemble a horse, with a detailed depiction of its musculature, thin legs, curved neck, and an intricately designed head with perked ears.",
+    "count": "There is one horse.",
+    "spatial": "",
+    "usage": "This 3D model can serve multiple purposes, such as a digital asset for video games or animations, a reference model for artists or sculptors, a virtual exhibit item for online galleries or museums, or as a basis for creating physical items through metalworking or 3D printing. Additionally, it can be used as a decorative feature in digital design projects."
+  },
+  {
+    "object_id": "c8f45fe11d684b30ade3b547be5cefd1",
+    "class": [
+      "video game vehicle",
+      "3D model",
+      "futuristic car",
+      "combat vehicle",
+      "GTA Online vehicle"
+    ],
+    "description": "This 3D sharp-edge model represents the Arena War FutureShock Bruiser from Grand Theft Auto Five Online. It features a tough, post-apocalyptic design with a sturdy build and large tires. The model includes a distinct roll cage, a toughened front bumper, and a single spike feature. Its design merges the characteristics of an off-road buggy with military and futuristic elements, suitable for its role as a combat vehicle in the Arena War mode of the game.",
+    "color": "The model predominantly uses white with red highlights, offering a striking edge model effect.",
+    "shape": "The model presents a robust, menacing form with an elevated frame, six hefty wheels, and a visible frame structure. It displays a noticeable roll cage, a strong cab area, and tough bumpers on both ends.",
+    "count": "There is one vehicle.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized for various activities related to Grand Theft Auto Five Online, including developing game assets, creating fan art, 3D printing game-themed models, or as a reference for digital artists and modders designing similar vehicles. It also acts as a showcase of 3D modeling capabilities in crafting edge models of intricate, imaginative vehicles."
+  },
+  {
+    "object_id": "cb5fba40366f47858acebc90cf37479f",
+    "class": [
+      "sports car",
+      "supercar",
+      "Lamborghini",
+      "luxury vehicle"
+    ],
+    "description": "This 3D model represents a modern, stylish Lamborghini supercar. It showcases the typical low and streamlined profile that Lamborghinis are known for. The design features sharp lines, notable side vents, and a bold, low front. The windows of the car are dark, enhancing its sophisticated look. Detailed aspects like intricate wheel designs and precise panel lines on the body are included, reflecting the quality of the 3D modeling.",
+    "color": "The primary color of the car is either dark gray or matte black. It has yellow highlights on the wheels, the lower edges, and a slim line across the roof. The windows are depicted in a darker shade of black.",
+    "shape": "The vehicle maintains a typical supercar shape with a low, broad positioning. It is designed with a wedge-like profile, sharp contours, and smooth curves that highlight its aerodynamic structure. The body features sleek surfaces punctuated by bold air intakes and aerodynamic details.",
+    "count": "There is one Lamborghini car.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for various digital uses such as video games, animations, or virtual displays. It could also be utilized by car designers for reference, in promotional content for Lamborghini, or by CGI artists creating projects that include luxury cars."
+  },
+  {
+    "object_id": "c0c0f2d8b980400cae6045139244c3d7",
+    "class": [
+      "cartoon character",
+      "3D mascot",
+      "digital toy",
+      "cute animal character"
+    ],
+    "description": "This 3D model represents a charming, cartoon-style animal, likely a rabbit or cat. It has a chubby, circular body predominantly in white. The character features big, bold black eyes, a tiny black nose, and two prominent front teeth. A vivid pink bow tie adorns its neck. The stomach displays a pink to red color gradient. Its overall design is gentle and rounded, creating a soft, endearing look typical of characters intended for children's entertainment or as virtual mascots.",
+    "color": "The primary body color is white with gentle shading. The bow tie is a vivid pink. The belly transitions from pink to red. The eyes and nose are solid black.",
+    "shape": "The character possesses a chubby, circular form with gentle curves. It has a large, round head that merges seamlessly with its body, short, rounded arms, and possibly a small tail or rear puff.",
+    "count": "There is one character",
+    "spatial": "",
+    "usage": "This 3D model can serve as a mascot for a brand or product, feature in children's digital content like games or animations, function as a virtual sticker or emoji in messaging apps, or act as a basis for producing physical toys or merchandise."
+  },
+  {
+    "object_id": "78bdd5a7735f42fc879849803a6678dc",
+    "class": [
+      "video game cartridge",
+      "NES game",
+      "retro gaming",
+      "Nintendo product"
+    ],
+    "description": "This 3D model represents a game cartridge from the Nintendo Entertainment System (NES), specifically for the combined game pack of Super Mario Bros. and Duck Hunt. The cartridge is colored in the classic NES gray and features a black label adorned with pixel-style graphics from both games. The imagery on the Super Mario Bros. part depicts Mario in mid-jump, while the Duck Hunt portion shows a flying duck. The label is also embellished with the Nintendo Entertainment System logo and the names of the games in unique typefaces.",
+    "color": "The main color of the cartridge is gray. The label is black and decorated with pixelated graphics in shades of red, blue, white, and brown, representing the characters and scenes from the games.",
+    "shape": "The cartridge is shaped like a rectangular prism with soft, rounded corners, a common design for NES cartridges. It also has grooved sides to aid in handling and inserting into the gaming system.",
+    "count": "There is one NES game cartridge.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in various ways such as for the digital preservation of video game history, inclusion in documentaries or historical retrospectives about gaming, in applications for virtual collections, or as a guide for producing tangible replicas or collectibles. Additionally, it can be used for educational purposes to teach about the evolution of video games and related technologies."
+  },
+  {
+    "object_id": "8c833864d0bb40f4b3f3a3fe1e99e702",
+    "class": [
+      "sports car",
+      "muscle car",
+      "3D car model",
+      "performance vehicle"
+    ],
+    "description": "This 3D model portrays a contemporary sports car, possibly influenced by classic American muscle cars such as the Ford Mustang or Dodge Challenger. The vehicle is painted in a dramatic two-tone color pattern, predominantly black with striking white racing stripes extending from the front to the back. It features a bold front end with what seems to be LED headlights. The design is robust and streamlined, incorporating carbon fiber elements and air vents. At the back, it displays unique taillight configurations and twin exhaust outlets, highlighting its high-performance aspect.",
+    "color": "The primary color of the body is black, adorned with distinct white racing stripes. Some panels exhibit carbon fiber detailing. The wheels are in a silver/gray hue, and the windows feature a dark tint.",
+    "shape": "The vehicle maintains a typical muscle car profile with an extended hood, a compact rear, and a broad stance. It includes sharp, aggressive lines, a low roofline, and features designed for aerodynamic efficiency.",
+    "count": "There is one car.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for various uses including as an asset for video games, visualizing automotive designs, creating digital promotional content for car lovers, or displaying in a digital showroom for conceptual or fictional vehicles. It could also be a reference for those interested in 3D printing or custom car design aiming to develop distinctive vehicle models."
+  },
+  {
+    "object_id": "b4bbf2116b1a41a5a3b9d3622b07074c",
+    "class": [
+      "safety shoe",
+      "work footwear",
+      "protective footwear",
+      "Sievi Racer model"
+    ],
+    "description": "This 3D model represents a Sievi Racer model safety shoe. The shoe's upper is primarily black with accents in orange and white. It is equipped with a unique quick-lace system, which replaces traditional laces for quick and secure fastening. The design includes enhanced protection, especially around the toe area to indicate its safety functionality. The sole is thick, mainly white with an orange border, which provides excellent cushioning and grip. The Sievi brand is clearly visible in orange text on the side, enhanced by a white graphic.",
+    "color": "The main part of the shoe is black. The sole is white with orange details. 'Sievi' is inscribed in orange, alongside a white graphic feature. The quick-lace system is black.",
+    "shape": "The shoe features a sporty, low-top style typical of contemporary safety shoes. It has a rounded toe with possible internal reinforcement. The sole is robust and contoured, designed for ergonomic support and comfort during extended wear.",
+    "count": "There is one shoe.",
+    "spatial": "",
+    "usage": "This 3D model of a Sievi Racer safety shoe can be utilized in various settings such as online product showcases, digital commerce sites, or virtual try-on solutions for industrial attire. It could also be used in safety training resources, presentations for industrial design, or as a prototype for new safety shoe designs. Furthermore, the model is useful for promotional content or virtual reality setups for workplace safety demonstrations."
+  },
+  {
+    "object_id": "607145499815434d9ee4e8ae5b0689ca",
+    "class": [
+      "pipe fitting",
+      "industrial equipment",
+      "construction component",
+      "plumbing part"
+    ],
+    "description": "This 3D model portrays a sizable yellow pipe connector, typically utilized in substantial industrial or construction settings. The connector is composed of three segments: two cylindrical ends of varying sizes linked by a middle flange. The broader end narrows to merge with the smaller end, indicating its purpose to connect pipes of differing dimensions. The texture on the surface suggests it mimics a worn or realistic component, and there is a minor protrusion on top, likely serving as an attachment point or an additional connection.",
+    "color": "The entire connector is painted in a vibrant yellow, common in construction or heavy industrial machinery. Variations in the yellow shade can be seen, possibly representing dirt or wear due to the rendering process.",
+    "shape": "The model is predominantly cylindrical, featuring three main sections. It starts with a larger diameter at one end, includes a central flange or ring, and ends with a smaller diameter. The transition from the larger to the smaller end is smoothly tapered.",
+    "count": "There is one pipe fitting.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for various uses including industrial design software, tools for construction planning, or educational resources on plumbing or industrial machinery. Additionally, it could be used as a reference for 3D printing of industrial components or in virtual reality training simulations in sectors like construction, mining, or petroleum extraction."
+  },
+  {
+    "object_id": "d4aa4126fce64397935d128ed54c3def",
+    "class": [
+      "cartoon character",
+      "animal character",
+      "duck",
+      "plush toy design"
+    ],
+    "description": "This 3D model represents an adorable cartoon duck. It is characterized by its chubby body and oversized head, rendered in a 'chibi' or exaggerated cute style. The duck's coloration is mainly yellow, complemented by a prominent orange beak. It features large, expressive eyes highlighted with white, contributing to its amiable look. The duck is dressed in a blue shirt adorned with a Pikachu logo, adding a unique crossover touch. It sports a clump of brown feathers atop its head and a petite tail at the rear. The orange, webbed feet accentuate its aquatic nature.",
+    "color": "The duck predominantly features a yellow body. It is dressed in a blue shirt and has brown feathers on its head, with an orange beak and feet. Red spots adorn its cheeks. Its eyes are black with white highlights.",
+    "shape": "The character boasts a rounded, oval body and a voluminous, circular head. Its arms resemble small wings, and it has a flat beak and webbed feet. The design is simplified and stylized, typical of endearing character models.",
+    "count": "There is one duck.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in a variety of settings such as video games, animated films or series, as a virtual avatar, in augmented reality environments, or as a reference for crafting toys or figures. It may also find use in fan creations, digital collectibles, or promotional content. With its charming design and Pikachu feature, it is especially appealing for products targeting children or fans of anime."
+  },
+  {
+    "object_id": "c6f203f1cf554c188272a10756e9498a",
+    "class": [
+      "space exploration vehicle",
+      "Mars rover",
+      "robotic rover",
+      "planetary exploration equipment"
+    ],
+    "description": "This 3D model is a simplified version of a Mars rover, akin to those utilized in NASA's Mars missions. The rover is designed with a box-shaped main body topped with four solar panels in a square layout. It is equipped with six wheels supported by a rocker-bogie suspension system, typical for Mars rovers to handle uneven surfaces. The model features a vertical mast with a 'head' that likely simulates cameras or sensory devices. Additionally, a smaller antenna or device can be seen on top of the solar panels.",
+    "color": "The primary body and mast are colored in light gray or off-white. The solar panels are a dark blue-gray with a grid design. The wheels are dark gray with hubs in orange-red. A small brown item, possibly a scientific instrument, is situated on the solar panel deck.",
+    "shape": "The rover features a rectangular main body with a flat upper surface where four square solar panels are installed. It includes a tall vertical mast with a box-shaped 'head'. The six wheels are attached to the body with angled suspension arms.",
+    "count": "This model includes one Mars rover with six wheels.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in educational content related to space exploration, simulations or visualizations of Mars expeditions, as a reference for constructing physical models or toys, or in digital formats such as documentaries or news graphics concerning Mars exploration."
+  },
+  {
+    "object_id": "dab99241a6294b6292a69ef9a2ee0e72",
+    "class": [
+      "construction equipment",
+      "excavator",
+      "heavy machinery",
+      "rail transport"
+    ],
+    "description": "This 3D model represents a sizable excavator mounted on a flatbed railcar for transportation purposes. The excavator, predominantly yellow with black details, is typical of large construction machinery. It includes a lengthy boom arm equipped with a digging bucket. Positioned on a white flatbed railcar, the excavator is fastened with bright red securing straps or cables. Visible components include the excavator's tracks, operator's cabin, and hydraulic parts. The model is meticulously detailed, showcasing the operator\u2019s area, motor section, and several hydraulic cylinders.",
+    "color": "The main color of the excavator is yellow, with black tracks and details. The railcar it rests on is white, and the securing straps or cables are vivid red.",
+    "shape": "The excavator features a typical construction machinery form with a cubic main body, an extended, jointed arm (boom and stick), and a bucket at its end, resting on tracks. The railcar is elongated and rectangular in shape.",
+    "count": "There is one excavator and one flatbed railcar included.",
+    "spatial": "The excavator is placed atop the flatbed railcar.",
+    "usage": "This 3D model can be utilized in a variety of contexts such as planning the logistics of transporting heavy machinery, training on how to secure loads for rail transit, creating promotional content for companies in the construction or rail industries, or as a detailed reference for crafting precise scale models."
+  },
+  {
+    "object_id": "2552879ebfe34d209658731149e7b8d1",
+    "class": [
+      "historical vehicle",
+      "pioneer wagon",
+      "covered wagon",
+      "prairie schooner"
+    ],
+    "description": "This 3D model represents an iconic covered wagon, similar to those utilized by early settlers during the 1800s. It features a cart made of wood with elevated sides and sizable spoked wheels. An arched canvas, either cream or off-white, is draped over the top. The wood elements of the wagon are brown, which enhances its traditional look. At the wagon's front, there is a noticeable storage box or chest, probably for holding essentials. The model is meticulously detailed, reflecting the historical accuracy in the wheel structures and the fabric texture of the cover.",
+    "color": "The main body and wheels of the wagon are brown, indicative of wood. The canvas cover is cream or off-white, resembling canvas material. The front storage chest has dark borders, suggesting metal fittings.",
+    "shape": "The base of the wagon is rectangular with elevated sides. It features a rounded top due to the arched cover. The wheels are large, round, and spoked, contributing to the wagon's elongated appearance.",
+    "count": "There is one covered wagon.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in a variety of contexts such as educational tools focusing on American history, specifically the era of pioneers and expansion to the west. It may also be useful in historical reenactments, museum exhibits, or as a reference for crafting physical replicas or props for movies or stage plays set during this historical period. Furthermore, it could be employed in video games or interactive media that explore historical narratives."
+  },
+  {
+    "object_id": "71e499219de548a7a1be74c237b6a2fb",
+    "class": [
+      "vehicle",
+      "pickup truck",
+      "utility vehicle",
+      "kei truck"
+    ],
+    "description": "This 3D model represents a compact, small-sized pickup truck, similar in style to a Japanese kei truck or mini truck. The vehicle is characterized by its bright red cab and a silver flatbed at the back. It sports a functional, square design with a short front hood, expansive windshield, and a small cabin. The truck is equipped with large, heavily treaded tires, indicating its capability for urban and mild off-road driving. The flatbed, likely metallic, is tailored for transport purposes. The vehicle's front features detailed headlights and a grille, and the back includes taillights that are part of the flatbed's structure.",
+    "color": "The cab of the truck is painted a vivid red. The flatbed is silver or light gray. The tires are black, and the headlights emit a blue-white light.",
+    "shape": "The truck's design is compact and square, typical of mini trucks. It has a short, blunt hood, a box-shaped cabin, and a rectangular flatbed.",
+    "count": "There is one pickup truck.",
+    "spatial": "",
+    "usage": "This 3D model can be utilized in various projects such as creating assets for video games, especially those set in urban or rural settings. It can also be used in architectural visualizations to provide scale and context within scenes."
+  },
+  {
+    "object_id": "541747a461f84142a113e2f591a7eb9b",
+    "class": [
+      "control panel",
+      "command center",
+      "sci-fi interface",
+      "military control station"
+    ],
+    "description": "This 3D model showcases a detailed, retro-futuristic control panel or command center, characterized by a curved design that incorporates numerous screens, buttons, and switches. It features a military or industrial look with a primary color of tan or khaki. The control panel is equipped with various circular radar-like displays and text screens, alongside a series of illuminated buttons in shades of orange and red, and control sticks resembling joysticks. Two prominent green radar screens are noticeable among the other components. The design indicates a sophisticated system used for monitoring and controlling high-tech operations, possibly within a spacecraft, submarine, or advanced military base.",
+    "color": "The primary color of the panel is tan or khaki. The display screens are mostly black and white, with radar screens in green. Buttons and indicators are colored orange, red, and white, while some metallic parts are silver or gray.",
+    "shape": "The control panel consists of several rectangular sections that house different control interfaces. The base of the panel includes angled sections, suggesting work stations.",
+    "count": "There is one large, integrated control panel that includes numerous distinct components.",
+    "spatial": "",
+    "usage": "This 3D model is versatile for use in various settings such as video game environments, especially in sci-fi or military themes. It could also be featured in animated films or television series. Designers might find it useful for conceptualizing user interfaces, or as a reference for constructing physical props for movies or theater. Additionally, it could enhance virtual reality setups or simulations dealing with complex system management or command centers."
+  },
+  {
+    "object_id": "e0e688d507be49738bf80e83828631ba",
+    "class": [
+      "industrial vehicle",
+      "forklift",
+      "material handling equipment",
+      "warehouse machinery"
+    ],
+    "description": "This 3D model showcases a counterbalance forklift truck with intricate details. It is equipped with a fully enclosed cab for the operator, a front-mounted mast with forks, and a rear counterweight for stability. The cab is primarily gray with expansive blue-tinted windows enhancing visibility. The exterior is painted in a vibrant orange, common for industrial machinery. Detailed elements include lighting, mirrors, and a clearly defined lift mechanism. The forks are positioned forward, indicating readiness for use.",
+    "color": "The primary color of the forklift is orange. The cab and the mast assembly are in gray. The windows feature a blue tint. The tires are black, complemented by silver wheel hubs, and it has small red lights at the top of the cab.",
+    "shape": "The forklift features a rectangular shape with a rounded operator's cab at the front. It has a tall vertical mast equipped with two forward-extending forks. The back of the forklift is weighted and gently curved to ensure stability.",
+    "count": "There is one forklift.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for a variety of uses including industrial design tools, warehouse operation simulations, training modules for forklift drivers, or as an educational resource in courses related to logistics and supply chain management."
+  },
+  {
+    "object_id": "dd491278516040998667f9dd998fad4f",
+    "class": [
+      "fish",
+      "catfish",
+      "aquatic animal",
+      "color calibration tool"
+    ],
+    "description": "This 3D model presents a precise depiction of a catfish, possibly belonging to the Pimelodus genus. The model showcases the typical features of a catfish, including barbels near its mouth that resemble whiskers. The body displays a yellowish-brown color with darker patterns. All fins, especially the split tail fin, are meticulously crafted. Adjacent to the fish, there is a color calibration cube used for ensuring color fidelity in photography and 3D modeling, displaying various colored squares on its surfaces.",
+    "color": "The catfish features a yellowish-brown hue with darker brown or grey patterns across its body. The color calibration cube is adorned with vivid colors like red, blue, green, yellow, and purple, besides black and white squares.",
+    "shape": "The catfish exhibits a long, streamlined body typical for its kind, with a flattened head, noticeable barbels, and a split tail fin. The calibration cube is a perfect cube with different colored squares on each side.",
+    "count": "There is one catfish and one color calibration cube present.",
+    "spatial": "The color calibration cube is positioned next to the fish.",
+    "usage": "This 3D model is suitable for various uses including educational content about freshwater fish, studies of river habitats, or digital art and animation that require precise fish models. The presence of the color calibration cube also makes it suitable for technical uses in 3D modeling, texture mapping, or ensuring color accuracy in digital visuals."
+  },
+  {
+    "object_id": "82ad2c59603d4e48b0d3b003949fd884",
+    "class": [
+      "sculpture",
+      "feline representation",
+      "digital sculpture"
+    ],
+    "description": "This 3D model portrays a stylized version of a cat or tiger head, featuring an abstract and artistic design. The sculpture is characterized by its exaggerated elements, including a distinct mane or fur encircling the face in a ring-like pattern. The facial details are simplified yet identifiable as feline, with a compact snout, diminutive eyes, and evident teeth. The style merges realistic aspects with a fantastical, somewhat cartoon-like flair.",
+    "color": "The model is colored in hues of pink and lavender, enhanced by lighting effects that create a gradient of these colors, transitioning from light to dark across its surface.",
+    "shape": "The sculpture's form is rounded and bulbous, primarily shaped by the mane or fur that forms a ring around the face. The face itself is slightly prominent, showcasing a clear feline silhouette.",
+    "count": "There is one sculptural head.",
+    "spatial": "",
+    "usage": "This 3D model is suitable for a variety of digital art uses, including video games, animated movies, or virtual reality setups. It could also be utilized as a base for creating physical sculptures."
+  },
+  {
+    "object_id": "0a6fb0c637534572be4b6ff5ef755637",
+    "class": [
+      "vehicle",
+      "police car",
+      "law enforcement vehicle",
+      "emergency vehicle"
+    ],
+    "description": "This 3D model represents a stylized police car, predominantly black in color. It has a basic design featuring a blue emergency light on top and orange signal lights at both the front and back. While it maintains the general appearance of a police car, it does not include intricate details or specific insignias that identify it as an official police vehicle. It seems primarily intended for use in games or simulations, rather than actual police work.",
+    "color": "The main body of the car is black, with the windows in the cabin tinted light blue/gray. The roof's emergency light bar is blue, and the signal lights at both ends are orange.",
+    "shape": "The car's design is boxy and straightforward with a trapezoidal cabin shape. It has a prominent light bar on the roof and a typical four-wheel setup. The overall form resembles a sedan-style police car, characterized by simple, clean lines.",
+    "count": "There is one police car.",
+    "spatial": "The blue emergency light bar is centrally positioned on the vehicle's roof.",
+    "usage": "This 3D model is suitable for use in various digital applications such as video games, educational programs about emergency services, children\u2019s media, or simplified simulations of city environments. It is ideal for projects that require a stylized, low-polygon visual style rather than a realistic depiction."
+  }
+]
