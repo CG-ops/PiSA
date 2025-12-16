@@ -2,7 +2,7 @@
 
 Official repository for the paper of "[PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models](https://arxiv.org/pdf/2503.10529)".
 
-[[📖 Paper](https://arxiv.org/pdf/2503.10529)]
+[[📖 Paper](https://arxiv.org/pdf/2503.10529)][[🤗 dataset](https://huggingface.co/datasets/ClaireG/PiSA)]
 
 ## PiSA-Bench
 We open-source the data of PiSA-Bench at [eval/PiSA_Bench.json](eval/PiSA_Bench.json).
@@ -31,6 +31,11 @@ If you want to test on PiSA-Bench, please format your model output JSON file as 
     ]
 }
 ```
+
+## Training Data
+Please download our training data [here](https://huggingface.co/datasets/ClaireG/PiSA). The point cloud data is identical to [PointLLM data](https://huggingface.co/datasets/RunsenXu/PointLLM).
+
+
 ## Cite
 Please cite us if you find our work helpful!
 ```
